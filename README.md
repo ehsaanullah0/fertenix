@@ -60,7 +60,7 @@
 * [Zenith Welbeing](https://github.com/1372Slash/Zenith)
 * [Pixal Player](https://github.com/PixelPlayerHQ/PixelPlayer)
 * [Cashew exp. Manager](https://play.google.com/store/search?q=cashew&c=apps&hl=en_IN)
-  
+* [Screen-Recording](https://github.com/muhammadhaseebiqbal-dev/Screen-Recorder)
 ---
 
 > [!CAUTION]
