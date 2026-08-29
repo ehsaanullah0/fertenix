@@ -232,7 +232,7 @@ translating this project into languages you know.
 
 <p align="center">
  <a href="https://worsmon-org.github.io/ehsaan-website/" target="_blank">
-  <img src="/ehsaan.png" width="100" alt="Ehsaan Ullah">
+<img width="100" src="https://github.com/user-attachments/assets/226a673e-c809-4245-a7f7-3dd515223617" />
 </a>
 
 <p align="center">
