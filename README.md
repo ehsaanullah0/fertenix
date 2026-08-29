@@ -21,8 +21,9 @@
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/Release-Modified%20APK-c9b58a?style=for-the-badge">
+<a href="https://github.com/ehsaanullah0/fertenix/tree/main?tab=security-ov-file">
   <img src="https://img.shields.io/badge/Security-Policy-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+</a></p>
 
 ---
 
@@ -225,8 +226,9 @@ translating this project into languages you know.
 
   # Security
 
-<img src="https://img.shields.io/badge/Security-Policy-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
-
+<a href="https://github.com/ehsaanullah0/fertenix/tree/main?tab=security-ov-file">
+  <img src="https://img.shields.io/badge/Security-Policy-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
  ⭐ FINDING BEST RESOURCES IS NO MORE STUFF.
 
