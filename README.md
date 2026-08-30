@@ -38,9 +38,8 @@
 ✨ **Release Highlights**
 
 * 🔓 Premium features are included.
-* 🛠️ Cracked using **Morphe APK Tool**.
-* ⚠️ These are modified/unofficial release. Use it at your own discretion.
-* 📌 Any consequences resulting from the use of this modified APK are the **sole responsibility of the user**.
+* ⚠️ These are under development release. Use it at your own discretion.
+* 📌 Any consequences resulting from the use of this APK are the **sole responsibility of the user**.
 
 💚 **[Enjoy the premium experience](https://github.com/worsmon-org/ehsaan-website/releases/tag/POWER)!**
 
