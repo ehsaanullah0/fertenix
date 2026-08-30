@@ -1,8 +1,6 @@
 <div align="center">
 
-# 🎗️EHSAAN ULLAH🎗️
-
-### Personal Website • Portfolio • Creative Space
+# Personal Website • Portfolio • Creative Space
 
 <p>
   A modern personal website built with <strong>Odoo</strong>, designed to showcase
