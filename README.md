@@ -63,6 +63,12 @@
 * [Pixal Player](https://github.com/PixelPlayerHQ/PixelPlayer)
 * [Cashew exp. Manager](https://play.google.com/store/search?q=cashew&c=apps&hl=en_IN)
 * [Screen-Recording](https://github.com/muhammadhaseebiqbal-dev/Screen-Recorder)
+
+ <p align="center">
+ <a href="https://github.com/ehsaanullah0/niagara-premium/releases/tag/v.10.21">
+  <img src="https://img.shields.io/badge/Release-Niagara.pro-c9b58a?style=for-the-badge" />
+</a>
+   
 ---
 
 > [!CAUTION]
