@@ -20,7 +20,9 @@
 </a>
 </div>
 <p align="center">
-  <img src="https://img.shields.io/badge/Release-Modified%20APK-c9b58a?style=for-the-badge">
+  <a href="https://github.com/ehsaanullah0/niagara-premium/releases/tag/v.10.21">
+  <img src="https://img.shields.io/badge/Release-Niagara.pro-c9b58a?style=for-the-badge" />
+</a>
 <a href="https://github.com/ehsaanullah0/fertenix/tree/main?tab=security-ov-file">
   <img src="https://img.shields.io/badge/Security-Policy-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
 </a></p>
@@ -250,7 +252,10 @@ translating this project into languages you know.
     <img src="https://img.shields.io/badge/Website-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
   </a>
 </p>
-
+<p align="center">
+ <a href="https://github.com/ehsaanullah0/niagara-premium/releases/tag/v.10.21">
+  <img src="https://img.shields.io/badge/Release-Niagara.pro-c9b58a?style=for-the-badge" />
+</a>
 
 
 
