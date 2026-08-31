@@ -31,7 +31,7 @@
 
 ---
 
-# 🧿 POWER APKs by EHSAAN
+# ☢ POWER APKs by EHSAAN
 
 ✨ **Release Highlights**
 
@@ -41,7 +41,7 @@
 
 💚 **[Enjoy the premium experience](https://github.com/worsmon-org/ehsaan-website/releases/tag/POWER)!**
 
-## ➡ **It is Recommended To Download '[ORION STORE](https://github.com/RookieEnough/Orion-Store)' for access all Morph Apks**
+### ➡ **It is Recommended To Download '[ORION STORE](https://github.com/RookieEnough/Orion-Store)' for access all Morph Apks**
 
 
 **⚡ TOP FOSS APPS TO USE AS A ANDROID USER (this is personal list)**
@@ -77,10 +77,10 @@
 >
 > ⭕ **[Remove Google Tracking](https://youtu.be/WJ8clVdaRKA)**  
 > Learn about reducing Google tracking.
->
-> **Services include:** Facebook · Instagram · WhatsApp · Gmail · Drive · Docs · Forms · Console · and more. they know you more then you yourself..!
->
-> 🔐 *Learn how tracking works and take control of your privacy.*
+
+ **Services include:** Facebook · Instagram · WhatsApp · Gmail · Drive · Docs · Forms · Console · and more. they know you more then you yourself..!
+
+ 🔐 *Learn how tracking works and take control of your privacy.*
 
 ---
 
@@ -211,18 +211,6 @@ Design experiments, wallpapers, music, collections, and other things that don't 
 🟢 **Active Development**
 
 The project is continuously being updated, experimented with, and expanded.
-
-## Translation
-
-This project is [available on Hosted Weblate](https://hosted.weblate.org/engage/) for
-translation.
-
-You can contribute to this project even if you are not a developer by helping in
-translating this project into languages you know.
-
-<a href="https://hosted.weblate.org/engage/tomato/">
-<img src="https://hosted.weblate.org/widget/tomato/horizontal-auto.svg" alt="Translation status" />
-</a>
 
 ---
 
