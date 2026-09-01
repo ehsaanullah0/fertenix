@@ -25,11 +25,16 @@
   <img src="https://img.shields.io/badge/Security-Policy-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
 </a></p>
 
----
 
 <img width="1796" height="876" alt="Ehsaan ULLAH" src="https://github.com/user-attachments/assets/f6aba9cf-f757-424b-9a81-19c0218cc3b8" />
+</p>
 
----
+<p align="center">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">&nbsp;&nbsp;
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg">&nbsp;&nbsp;
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg">&nbsp;&nbsp;
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv32.svg">
+</p>
 
 # ☢ POWER APKs by EHSAAN
 
@@ -41,7 +46,7 @@
 
 💚 **[Enjoy the premium experience](https://github.com/worsmon-org/ehsaan-website/releases/tag/POWER)!**
 
-➡ **It is Recommended To Download '[ORION STORE](https://github.com/RookieEnough/Orion-Store)' for access all Morph Apks**
+📌 **It is Recommended To Download '[ORION STORE](https://github.com/RookieEnough/Orion-Store)' for access all Morph Apks**
 
 
 **⚡ TOP FOSS APPS TO USE AS A ANDROID USER (this is personal list)**
