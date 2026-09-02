@@ -90,8 +90,8 @@
 ---
 
 
-🐙## WANT TO KNOW MORE ABOUT MAC OS
-checkout this youtube video ~ [click here](https://www.youtube.com/watch?v=DHxoMqLi8wo)
+## WANT TO KNOW MORE ABOUT MAC OS
+🐙 checkout this youtube video ~ [click here](https://www.youtube.com/watch?v=DHxoMqLi8wo)
 
 ---
 
