@@ -157,6 +157,14 @@ A collection of some of the main things you'll find around the website:
   </tr>
 </table>
 
+<p align="center">
+<a href="https://youtube.com/shorts/HIcF1IgQkOM">
+  <img
+    src="https://img.shields.io/badge/▶%20WATCH%20WEBSITE%20DEMO-D32F2F?style=for-the-badge&logo=youtube&logoColor=white"
+    alt="Watch Website Demo"
+  />
+</a>
+
 ## ✍️ Blog & Thoughts
 
 
