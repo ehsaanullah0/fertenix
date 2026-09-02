@@ -64,7 +64,7 @@
 * [Cashew exp. Manager](https://play.google.com/store/search?q=cashew&c=apps&hl=en_IN)
 * [Screen-Recording](https://github.com/muhammadhaseebiqbal-dev/Screen-Recorder)
 * [Tomato Pomodoro](https://github.com/nsh07/Tomato)
-* [CloudStream~movies](https://github.com/ehsaanullah0/fertenix/edit/main/README.md)
+* [CloudStream~movies](https://github.com/recloudstream/cloudstream)
 
  <p align="center">
  <a href="https://github.com/ehsaanullah0/niagara-premium/releases/tag/v.10.21">
