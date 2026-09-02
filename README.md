@@ -89,6 +89,12 @@
 
 ---
 
+
+🐙## WANT TO KNOW MORE ABOUT MAC OS
+checkout this youtube video ~ [click here](https://www.youtube.com/watch?v=DHxoMqLi8wo)
+
+---
+
 ## 🔥 TOP ELEMENTS
 
 A collection of some of the main things you'll find around the website:
