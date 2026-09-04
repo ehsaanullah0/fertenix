@@ -89,9 +89,13 @@
 
 ---
 
-
-## WANT TO KNOW MORE ABOUT MAC OS
-🐙 checkout this youtube video ~ [click here](https://www.youtube.com/watch?v=DHxoMqLi8wo)
+> [!TIP]
+>
+> ### 🍎 Want to Know More About macOS?
+>
+> Curious about macOS? Check out this video for a quick look at its features and capabilities.
+>
+> **🎬 [Watch on YouTube →](https://www.youtube.com/watch?v=DHxoMqLi8wo)**
 
 ---
 
