@@ -87,7 +87,6 @@
 
  🔐 *Learn how tracking works and take control of your privacy.*
 
----
 
 > [!TIP]
 >
