@@ -144,13 +144,13 @@ A collection of some of the main things you'll find around the website:
       <img width="100%" src="https://github.com/user-attachments/assets/e06fbca0-a1ec-4ec4-a787-e17b7442f563" />
     </td>
     <td align="center" width="50%">
-      <img width="100%" src="https://github.com/user-attachments/assets/e99a2229-2989-4550-be98-a115882ea513" />
+<img width="720" height="1528" alt="1000005158" src="https://github.com/user-attachments/assets/b24a92cf-cc8d-4ef2-ba6e-9a5af3c57131" />
     </td>
   </tr>
 
   <tr>
     <td align="center" width="50%">
-      <img width="100%" src="https://github.com/user-attachments/assets/da57ecfa-6eb6-4155-9769-b3019a704c9f" />
+<img width="720" height="1520" alt="Screenshot_20260904-182059" src="https://github.com/user-attachments/assets/1a93212f-d7f3-443a-bda7-48a1f5a41204" />
     </td>
     <td align="center" width="50%">
       <img width="100%" src="https://github.com/user-attachments/assets/4ab0c128-ef7e-4579-82f1-4591472bf00c" />
