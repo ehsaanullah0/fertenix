@@ -65,7 +65,7 @@
 * [Screen-Recording](https://github.com/muhammadhaseebiqbal-dev/Screen-Recorder)
 * [Tomato Pomodoro](https://github.com/nsh07/Tomato)
 * [CloudStream~movies](https://github.com/recloudstream/cloudstream)
-* [LastWave~music](https://github.com/Clash-Projects/LastWave-native)
+* [LastWave~Flac](https://github.com/Clash-Projects/LastWave-native)
 
  <p align="center">
  <a href="https://github.com/ehsaanullah0/niagara-premium/releases/tag/v.10.21">
