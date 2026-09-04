@@ -98,20 +98,6 @@
 
 ---
 
-## 🔥 TOP ELEMENTS
-
-A collection of some of the main things you'll find around the website:
-
-| 🏷️ | ALL COLLECTION             |
-| :-: | :------------------------ |
-| 🖼️ | **Wallpaper Collection**  |
-|  🎵 | **Music Library (.FLAC)** |
-|  🎬 | **Movies Hub**            |
-|  ⌚  | **Watch Collection**      |
-|  🌿 | **Natural Drugs**         |
-
----
-
 # 🖼️ SCREENSHOTS
 🥽 Zoom to see properly.. And [clicke here](https://ehsaan.odoo.com) to go to website..!
 
@@ -280,12 +266,6 @@ The project is continuously being updated, experimented with, and expanded.
 </a>
 </p>
 
-<p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">&nbsp;&nbsp;
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg">&nbsp;&nbsp;
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg">&nbsp;&nbsp;
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv32.svg">
-</p>
 
 
 
