@@ -57,7 +57,7 @@
 * [Cuirum qr code ](https://github.com/nylxar/curium/releases/tag/v0.6.4)
 * [SAVR link saver](https://play.google.com/store/apps/details?id=com.zarnth.savr&pcampaignid=web_share) / [ Linkora](https://play.google.com/store/apps/details?id=com.sakethh.linkora&pcampaignid=web_share)
 * [Orion Store](https://github.com/RookieEnough/Orion-Store)
-* [Re-tune](https://github.com/Juanoto2012/ReTune)
+* [Re-tune](https://github.com/Juanoto2012/ReTune) / [LastWave~Flac](https://github.com/Clash-Projects/LastWave-native)
 * [Fossify apps ](https://play.google.com/store/apps/dev?id=7297838378654322558&hl=en_IN)
 * [Zenith Welbeing](https://github.com/1372Slash/Zenith)
 * [Pixal Player](https://github.com/PixelPlayerHQ/PixelPlayer)
