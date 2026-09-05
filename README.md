@@ -47,7 +47,7 @@
 📌 **It is Recommended To Download '[ORION STORE](https://github.com/RookieEnough/Orion-Store)' for access all Morph Apks**
 
 
-**⚡ TOP FOSS APPS TO USE AS A ANDROID USER (this is personal list)**
+## **⚡ TOP FOSS APPS TO USE AS A ANDROID USER (this is personal list)**
 
 * [Binery Eye](https://play.google.com/store/search?q=binery%20eye&c=apps&hl=en_IN)
 * [Proton Mail](https://play.google.com/store/apps/details?id=ch.protonmail.android)
