@@ -65,6 +65,7 @@
 * [Screen-Recording](https://github.com/muhammadhaseebiqbal-dev/Screen-Recorder)
 * [Tomato Pomodoro](https://github.com/nsh07/Tomato)
 * [CloudStream~movies](https://github.com/recloudstream/cloudstream)
+* [ObtainX~app-updater](https://github.com/bikram-agarwal/ObtainX)
 
  <p align="center">
  <a href="https://github.com/ehsaanullah0/niagara-premium/releases/tag/v.10.21">
