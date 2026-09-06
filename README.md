@@ -190,7 +190,11 @@ It's simply a list of things I've found useful enough to keep around.
     <td align="center" width="33%">
       <img width="100%" src="https://github.com/user-attachments/assets/28e025ec-478b-481a-b518-460a2fdb5f12" alt="Website screenshot 10" />
     </td>
-  </tr>
+    <td align="center" width="33%">
+<img width="720" height="1600" alt="1000005240" src="https://github.com/user-attachments/assets/80506ed1-9f13-45e7-884b-5672fcb9e4b7" />
+  </td>
+  <td align="center" width="33%">
+  <img width="720" height="1600" alt="1000005242" src="https://github.com/user-attachments/assets/492f2d90-318c-40a0-b744-bbbc6068413c" />
 </table>
 
 <p align="center">
@@ -206,93 +210,63 @@ It's simply a list of things I've found useful enough to keep around.
 
 ---
 
-# ✍️ BLOG & THOUGHTS
+<h2 align="center">✍️ BLOG & THOUGHTS</h2>
 
 <p align="center">
-  <strong>Ideas · experiments · discoveries · things worth keeping.</strong><br>
-  <sub>A little corner where I write, explore, and document whatever catches my attention.</sub>
+  <sub>Ideas, experiments, discoveries & things worth keeping.</sub>
 </p>
 
 <br>
-
 <table align="center">
   <tr>
-    <td width="50%" align="center">
-
-### 🧠 Thoughts & Ideas
-
-Random thoughts, observations, lessons, and ideas that are worth putting into words.
-
-```
-</td>
-
-<td width="50%" align="center">
-```
-
-### 💻 Tech & Experiments
-
-Things I discover while building websites, exploring GitHub, trying new tools, and breaking things until they work.
-
-```
-</td>
-```
-
+    <td align="center" width="50%">
+      <h3>🧠 Thoughts</h3>
+      <p>Thoughts, observations, lessons & ideas.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>💻 Tech</h3>
+      <p>Websites, GitHub, tools & experiments.</p>
+    </td>
   </tr>
-
   <tr>
-    <td width="50%" align="center">
-
-### 📚 Learning
-
-Notes, discoveries, useful resources, and things I've learned along the way.
-
-```
-</td>
-
-<td width="50%" align="center">
-```
-
-### 🎨 Creative Stuff
-
-Design experiments, wallpapers, music, collections, and other things that don't really fit into a box.
-
-```
-</td>
-```
-
+    <td align="center" width="50%">
+      <h3>📚 Learning</h3>
+      <p>Notes, discoveries & useful resources.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🎨 Creative</h3>
+      <p>Wallpapers, music, designs & random creations.</p>
+    </td>
   </tr>
 </table>
 
+<br>
+
 <p align="center">
   <a href="https://worsmon-org.github.io/ehsaan-website/">
-    <img src="https://img.shields.io/badge/📖%20READ%20MY%20BLOG-EHSaan_ULLAH-E7DDC1?style=for-the-badge&logo=readme&logoColor=000000&labelColor=111111" alt="Read my blog">
+    <img src="https://img.shields.io/badge/📖%20READ%20MY%20BLOG-E7DDC1?style=for-the-badge&labelColor=111111&logo=readme&logoColor=white" alt="Read my blog">
   </a>
 </p>
 
 <p align="center">
-  <sub>Not everything needs to be a project.<br>Sometimes it's just something worth sharing.</sub>
+  <sub>Not everything needs to be a project. Sometimes it's just worth sharing.</sub>
 </p>
 
 ---
 
 # 🚧 STATUS
 
-<p align="center">
-
 🟢 **ACTIVE DEVELOPMENT**
 
-<br>
+this repo is maintained by ehsaan ullah forunder of the website and the repo with the working managed time. so the delay should be acceptable...
 
-<sub>
 The website is continuously being updated, experimented with, redesigned,
 and expanded.
-</sub>
-
 </p>
 
----
 
 # 🛠️ SECURITY
+All security related aspects are available on security.md and you can read the page by clicking the button below...
 
 <p align="center">
   <a href="https://github.com/ehsaanullah0/fertenix/tree/main?tab=security-ov-file">
@@ -300,7 +274,6 @@ and expanded.
   </a>
 </p>
 
----
 
 # 💛 SUPPORT THE DEVELOPMENT
 
@@ -311,9 +284,8 @@ and expanded.
   <sub>If you find something useful here, a ⭐ is always appreciated.</sub>
 </p>
 
----
-
-# ✦ FINDING GOOD RESOURCES SHOULDN'T BE HARD.
+<p align="center">
+## ✦ FINDING GOOD RESOURCES SHOULDN'T BE HARD.
 
 <p align="center">
   <a href="https://worsmon-org.github.io/ehsaan-website/" target="_blank">
