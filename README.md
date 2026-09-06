@@ -64,9 +64,14 @@
 * [Cashew exp. Manager](https://play.google.com/store/search?q=cashew&c=apps&hl=en_IN)
 * [Screen-Recording](https://github.com/muhammadhaseebiqbal-dev/Screen-Recorder)
 * [Tomato Pomodoro](https://github.com/nsh07/Tomato)
+
+
+**OTHERS**
+
+* [Battert Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru&pcampaignid=web_share)
 * [CloudStream~movies](https://github.com/recloudstream/cloudstream)
 * [ObtainX~app-updater](https://github.com/bikram-agarwal/ObtainX)
-
+* 
  <p align="center">
  <a href="https://github.com/ehsaanullah0/niagara-premium/releases/tag/v.10.21">
   <img src="https://img.shields.io/badge/Release-Niagara.pro-c9b58a?style=for-the-badge" />
