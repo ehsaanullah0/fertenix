@@ -1,277 +1,341 @@
-
-<img width="1796" height="876" alt="Ehsaan ULLAH" src="https://github.com/user-attachments/assets/6c140989-cfdb-4a64-a957-44ec069a0271" />
+<p align="center">
+  <img width="1796" height="876" alt="Ehsaan ULLAH" src="https://github.com/user-attachments/assets/6c140989-cfdb-4a64-a957-44ec069a0271" />
 </p>
 
 <div align="center">
 
-# Personal Website • Portfolio • Creative Space
+# ✦ Personal Website · Portfolio · Creative Space
 
 <p>
-  A modern personal website built with <strong>Odoo</strong>, designed to showcase
-  my work, projects, interests, and digital presence.
+  <strong>A little corner of the internet built by Ehsaan ULLAH.</strong><br>
+  Projects, experiments, useful discoveries, random ideas & things worth keeping.
 </p>
 
 <br>
-<p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">&nbsp;&nbsp;
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg">&nbsp;&nbsp;
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg">&nbsp;&nbsp;
+
+<p>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">&nbsp;
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg">&nbsp;
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg">&nbsp;
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv32.svg">
 </p>
+
+<br>
 
 <a href="https://ehsaan.odoo.com">
   <img src="https://img.shields.io/badge/🌐%20LIVE%20WEBSITE-EhSaan.odoo.com-E7AC08?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="https://github.com/worsmon-org/ehsaan-website">
   <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 </div>
-<p align="center">
-  <a href="https://github.com/ehsaanullah0/niagara-premium/releases/tag/v.10.21">
-  <img src="https://img.shields.io/badge/Release-Niagara.pro-c9b58a?style=for-the-badge" />
-</a>
-<a href="https://github.com/ehsaanullah0/fertenix/tree/main?tab=security-ov-file">
-  <img src="https://img.shields.io/badge/Security-Policy-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
-</a></p>
-# ☢ POWER APKs by EHSAAN
 
-✨ **Release Highlights**
+<br>
 
-* 🔓 Premium features are included.
-* ⚠️ These are under development release. Use it at your own discretion.
-* 📌 Any consequences resulting from the use of this APK are the **sole responsibility of the user**.
-
-💚 **[Enjoy the premium experience](https://github.com/worsmon-org/ehsaan-website/releases/tag/POWER)!**
-
-📌 **It is Recommended To Download '[ORION STORE](https://github.com/RookieEnough/Orion-Store)' for access all Morph Apks**
-
-
-## **⚡ TOP FOSS APPS TO USE AS A ANDROID USER (this is personal list)**
-
-* [Binery Eye](https://play.google.com/store/search?q=binery%20eye&c=apps&hl=en_IN)
-* [Proton Mail](https://play.google.com/store/apps/details?id=ch.protonmail.android)
-* [Grit Habit Tracker](https://github.com/shub39/Grit/releases)
-* [Local Send](https://play.google.com/store/search?q=local%20send&c=apps&hl=en_IN)
-* [Brave Browser](https://play.google.com/store/search?q=brave&c=apps&hl=en_IN)
-* [Cuirum qr code ](https://github.com/nylxar/curium/releases/tag/v0.6.4)
-* [SAVR link saver](https://play.google.com/store/apps/details?id=com.zarnth.savr&pcampaignid=web_share) / [ Linkora](https://play.google.com/store/apps/details?id=com.sakethh.linkora&pcampaignid=web_share)
-* [Orion Store](https://github.com/RookieEnough/Orion-Store)
-* [Re-tune](https://github.com/Juanoto2012/ReTune) / [LastWave~Flac](https://github.com/Clash-Projects/LastWave-native)
-* [Fossify apps ](https://play.google.com/store/apps/dev?id=7297838378654322558&hl=en_IN)
-* [Zenith Welbeing](https://github.com/1372Slash/Zenith)
-* [Pixal Player](https://github.com/PixelPlayerHQ/PixelPlayer)
-* [Cashew exp. Manager](https://play.google.com/store/search?q=cashew&c=apps&hl=en_IN)
-* [Screen-Recording](https://github.com/muhammadhaseebiqbal-dev/Screen-Recorder)
-* [Tomato Pomodoro](https://github.com/nsh07/Tomato)
-
-
-**OTHERS**
-
-* [Battert Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru&pcampaignid=web_share)
-* [CloudStream~movies](https://github.com/recloudstream/cloudstream)
-* [ObtainX~app-updater](https://github.com/bikram-agarwal/ObtainX)
-* 
- <p align="center">
- <a href="https://github.com/ehsaanullah0/niagara-premium/releases/tag/v.10.21">
-  <img src="https://img.shields.io/badge/Release-Niagara.pro-c9b58a?style=for-the-badge" />
-</a>
-   
 ---
 
+# ☢ POWER APKs by EHSAAN
+
+> **Experimental releases, modified apps & things I'm playing around with.**
+
+### ✨ Release Highlights
+
+* 🔓 Premium features are included.
+* 🧪 These are development / experimental releases.
+* ⚠️ Use them at your own discretion.
+* 📌 You are responsible for anything you do with the APKs.
+
+<p align="center">
+  <a href="https://github.com/worsmon-org/ehsaan-website/releases/tag/POWER">
+    <img src="https://img.shields.io/badge/💚%20GET%20POWER%20APKs-E7AC08?style=for-the-badge&logo=android&logoColor=111111" />
+  </a>
+</p>
+
+> 💡 **Tip:** For easier access to Morph APKs, check out
+> **[Orion Store](https://github.com/RookieEnough/Orion-Store)**.
+
+---
+
+# ⚡ MY ANDROID TOOLBOX
+
+> *A personal collection of apps I actually find useful.*
+
+### 🔐 Privacy & Communication
+
+| App                                                                                    | Why I keep it                |
+| -------------------------------------------------------------------------------------- | ---------------------------- |
+| [Proton Mail](https://play.google.com/store/apps/details?id=ch.protonmail.android)     | Private email                |
+| [Brave Browser](https://play.google.com/store/search?q=brave&c=apps&hl=en_IN)          | Privacy-focused browsing     |
+| [LocalSend](https://play.google.com/store/search?q=local%20send&c=apps&hl=en_IN)       | Local file sharing           |
+| [Fossify Apps](https://play.google.com/store/apps/dev?id=7297838378654322558&hl=en_IN) | Simple open-source utilities |
+
+### 🧠 Productivity & Life
+
+| App                                                                     | Why I keep it      |
+| ----------------------------------------------------------------------- | ------------------ |
+| [Grit Habit Tracker](https://github.com/shub39/Grit/releases)           | Habit tracking     |
+| [Cashew](https://play.google.com/store/search?q=cashew&c=apps&hl=en_IN) | Expense management |
+| [Zenith Wellbeing](https://github.com/1372Slash/Zenith)                 | Digital wellbeing  |
+| [Tomato Pomodoro](https://github.com/nsh07/Tomato)                      | Focus sessions     |
+
+### 🎵 Media & Entertainment
+
+| App                                                           | Why I keep it  |
+| ------------------------------------------------------------- | -------------- |
+| [Re-Tune](https://github.com/Juanoto2012/ReTune)              | Music          |
+| [LastWave](https://github.com/Clash-Projects/LastWave-native) | FLAC / music   |
+| [Pixel Player](https://github.com/PixelPlayerHQ/PixelPlayer)  | Music player   |
+| [CloudStream](https://github.com/recloudstream/cloudstream)   | Media platform |
+
+### 🛠️ Useful Tools
+
+| App                                                                                                                                                                                              | Purpose               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- |
+| [Curium QR](https://github.com/nylxar/curium/releases/tag/v0.6.4)                                                                                                                                | QR codes              |
+| [SAVR](https://play.google.com/store/apps/details?id=com.zarnth.savr&pcampaignid=web_share) / [Linkora](https://play.google.com/store/apps/details?id=com.sakethh.linkora&pcampaignid=web_share) | Save & organize links |
+| [Orion Store](https://github.com/RookieEnough/Orion-Store)                                                                                                                                       | App discovery         |
+| [Screen Recorder](https://github.com/muhammadhaseebiqbal-dev/Screen-Recorder)                                                                                                                    | Screen recording      |
+| [ObtainX](https://github.com/bikram-agarwal/ObtainX)                                                                                                                                             | App updates           |
+| [Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru&pcampaignid=web_share)                                                                                      | Battery statistics    |
+
+> ⭐ **This isn't a “best apps” list.**
+> It's simply a list of things I've found useful enough to keep around.
+
+---
+
+# 🛡️ PRIVACY CORNER
+
 > [!CAUTION]
-> ### 💢 Privacy & Tracking
 >
-> 🔴 **[Remove Meta Tracking From Your Life](https://youtu.be/Yv2Eb_kJous)**  
-> Learn about reducing Meta tracking.
+> ### 💢 Your apps know more than you think.
 >
-> ⭕ **[Remove Google Tracking](https://youtu.be/WJ8clVdaRKA)**  
-> Learn about reducing Google tracking.
+> 🔴 **[Remove Meta Tracking From Your Life](https://youtu.be/Yv2Eb_kJous)**
+> Learn how to reduce tracking across Meta services.
+>
+> ⭕ **[Remove Google Tracking](https://youtu.be/WJ8clVdaRKA)**
+> Understand Google's tracking ecosystem and what you can do about it.
+>
+> **Facebook · Instagram · WhatsApp · Gmail · Drive · Docs · Forms · Console · and more.**
+>
+> 🔐 *Learn how tracking works. Then decide what you're comfortable sharing.*
 
- **Services include:** Facebook · Instagram · WhatsApp · Gmail · Drive · Docs · Forms · Console · and more. they know you more then you yourself..!
+---
 
- 🔐 *Learn how tracking works and take control of your privacy.*
-
+# 🍎 MACOS CORNER
 
 > [!TIP]
 >
-> ### 🍎 Want to Know More About macOS?
+> ### Want to know more about macOS?
 >
-> Curious about macOS? Check out this video for a quick look at its features and capabilities.
+> Curious about macOS? Here's a quick video exploring its features and capabilities.
 >
-> **🎬 [Watch on YouTube →](https://www.youtube.com/watch?v=DHxoMqLi8wo)**
+> 🎬 **[Watch on YouTube →](https://www.youtube.com/watch?v=DHxoMqLi8wo)**
 
 ---
 
-# 🖼️ SCREENSHOTS
-🥽 Zoom to see properly.. And [clicke here](https://ehsaan.odoo.com) to go to website..!
+# 🖼️ WEBSITE PREVIEW
 
 <p align="center">
-<a href="https://youtube.com/shorts/HIcF1IgQkOM">
-  <img
-    src="https://img.shields.io/badge/▶%20WATCH%20WEBSITE%20DEMO-D32F2F?style=for-the-badge&logo=youtube&logoColor=white"
-    alt="Watch Website Demo"
-  />
-</a>
-  
-<table>
+  <strong>👀 Here's a little tour of the website.</strong><br>
+  <sub>Click the screenshots to explore the full site.</sub>
+</p>
+
+<p align="center">
+  <a href="https://youtube.com/shorts/HIcF1IgQkOM">
+    <img src="https://img.shields.io/badge/▶%20WATCH%20WEBSITE%20DEMO-D32F2F?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Website Demo" />
+  </a>
+</p>
+
+<table align="center">
   <tr>
-    <td align="center" width="50%">
-<img width="720" height="1600" alt="1000005233" src="https://github.com/user-attachments/assets/d28a11ba-b16b-4763-8459-120946672781" />
+    <td align="center" width="33%">
+      <img width="100%" src="https://github.com/user-attachments/assets/d28a11ba-b16b-4763-8459-120946672781" alt="Website screenshot 1" />
     </td>
-    <td align="center" width="50%">
-<img width="720" height="1600" alt="1000005232" src="https://github.com/user-attachments/assets/90d54ff6-7591-4a90-a5ea-701ab0945821" />
+    <td align="center" width="33%">
+      <img width="100%" src="https://github.com/user-attachments/assets/90d54ff6-7591-4a90-a5ea-701ab0945821" alt="Website screenshot 2" />
+    </td>
+    <td align="center" width="33%">
+      <img width="100%" src="https://github.com/user-attachments/assets/ce7a4874-0fcc-4916-a31a-5b6dadde9d69" alt="Website screenshot 3" />
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="50%">
-<img width="720" height="1600" alt="1000005235" src="https://github.com/user-attachments/assets/ce7a4874-0fcc-4916-a31a-5b6dadde9d69" />
+    <td align="center" width="33%">
+      <img width="100%" src="https://github.com/user-attachments/assets/c4b060c6-af2d-4194-8bef-0d26cf81a9de" alt="Website screenshot 4" />
     </td>
-    <td align="center" width="50%">
-<img width="720" height="1600" alt="1000005236" src="https://github.com/user-attachments/assets/c4b060c6-af2d-4194-8bef-0d26cf81a9de" />
+    <td align="center" width="33%">
+      <img width="100%" src="https://github.com/user-attachments/assets/cfc542a0-ba9b-4958-a8e0-c25a0dff49db" alt="Website screenshot 5" />
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="50%">
-<img width="720" height="1600" alt="1000005237" src="https://github.com/user-attachments/assets/cfc542a0-ba9b-4958-a8e0-c25a0dff49db" />
-    </td>
-    <td align="center" width="50%">
-<img width="720" height="1528" alt="1000005158" src="https://github.com/user-attachments/assets/b24a92cf-cc8d-4ef2-ba6e-9a5af3c57131" />
+    <td align="center" width="33%">
+      <img width="100%" src="https://github.com/user-attachments/assets/b24a92cf-cc8d-4ef2-ba6e-9a5af3c57131" alt="Website screenshot 6" />
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="50%">
-<img width="720" height="1520" alt="Screenshot_20260904-182059" src="https://github.com/user-attachments/assets/1a93212f-d7f3-443a-bda7-48a1f5a41204" />
+    <td align="center" width="33%">
+      <img width="100%" src="https://github.com/user-attachments/assets/1a93212f-d7f3-443a-bda7-48a1f5a41204" alt="Website screenshot 7" />
     </td>
-    <td align="center" width="50%">
-<img width="720" height="1600" alt="1000005238" src="https://github.com/user-attachments/assets/ec5ace0a-5585-4a78-bf33-aaf3f088fcea" />
+    <td align="center" width="33%">
+      <img width="100%" src="https://github.com/user-attachments/assets/ec5ace0a-5585-4a78-bf33-aaf3f088fcea" alt="Website screenshot 8" />
+    </td>
+    <td align="center" width="33%">
+      <img width="100%" src="https://github.com/user-attachments/assets/6f0bf513-c8a0-4e27-a80b-3064cefc96e2" alt="Website screenshot 9" />
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="50%">
-<img width="720" height="1600" alt="1000005239" src="https://github.com/user-attachments/assets/6f0bf513-c8a0-4e27-a80b-3064cefc96e2" />
+    <td align="center" width="33%">
+      <img width="100%" src="https://github.com/user-attachments/assets/28e025ec-478b-481a-b518-460a2fdb5f12" alt="Website screenshot 10" />
     </td>
-    <td align="center" width="50%">
-      <img width="720" height="1514" src="https://github.com/user-attachments/assets/28e025ec-478b-481a-b518-460a2fdb5f12" />
   </tr>
 </table>
 
 <p align="center">
-<a href="https://youtube.com/shorts/HIcF1IgQkOM">
-  <img
-    src="https://img.shields.io/badge/▶%20WATCH%20WEBSITE%20DEMO-D32F2F?style=for-the-badge&logo=youtube&logoColor=white"
-    alt="Watch Website Demo"
-  />
-</a>
+  <a href="https://ehsaan.odoo.com">
+    <img src="https://img.shields.io/badge/🌐%20EXPLORE%20THE%20WEBSITE-E7AC08?style=for-the-badge&logo=googlechrome&logoColor=111111" />
+  </a>
+</p>
 
-## ✍️ Blog & Thoughts
+---
 
+# ✍️ BLOG & THOUGHTS
 
 <p align="center">
-  <b>Ideas, experiments, discoveries & things worth keeping.</b><br>
-  A little corner where I write, explore, and document whatever catches my attention.
+  <strong>Ideas · experiments · discoveries · things worth keeping.</strong><br>
+  <sub>A little corner where I write, explore, and document whatever catches my attention.</sub>
 </p>
 
 <br>
 
 <table align="center">
-<tr>
-<td width="50%" align="center">
+  <tr>
+    <td width="50%" align="center">
 
 ### 🧠 Thoughts & Ideas
 
 Random thoughts, observations, lessons, and ideas that are worth putting into words.
 
+```
 </td>
 
 <td width="50%" align="center">
+```
 
 ### 💻 Tech & Experiments
 
 Things I discover while building websites, exploring GitHub, trying new tools, and breaking things until they work.
 
+```
 </td>
-</tr>
+```
 
-<tr>
-<td width="50%" align="center">
+  </tr>
+
+  <tr>
+    <td width="50%" align="center">
 
 ### 📚 Learning
 
 Notes, discoveries, useful resources, and things I've learned along the way.
 
+```
 </td>
 
 <td width="50%" align="center">
+```
 
 ### 🎨 Creative Stuff
 
 Design experiments, wallpapers, music, collections, and other things that don't really fit into a box.
 
+```
 </td>
-</tr>
+```
+
+  </tr>
 </table>
 
 <p align="center">
   <a href="https://worsmon-org.github.io/ehsaan-website/">
-    <img src="https://img.shields.io/badge/READ_MY_BLOG-EHSaan_ULLAH-E7DDC1?style=for-the-badge&logo=readme&logoColor=000000&labelColor=111111" alt="Read my blog">
+    <img src="https://img.shields.io/badge/📖%20READ%20MY%20BLOG-EHSaan_ULLAH-E7DDC1?style=for-the-badge&logo=readme&logoColor=000000&labelColor=111111" alt="Read my blog">
   </a>
 </p>
 
 <p align="center">
-  <sub>Not everything needs to be a project. Sometimes it's just something worth sharing.</sub>
+  <sub>Not everything needs to be a project.<br>Sometimes it's just something worth sharing.</sub>
 </p>
 
 ---
 
-## 🚧 STATUS
+# 🚧 STATUS
 
-🟢 **Active Development**
+<p align="center">
 
-The project is continuously being updated, experimented with, and expanded.
+🟢 **ACTIVE DEVELOPMENT**
+
+<br>
+
+<sub>
+The website is continuously being updated, experimented with, redesigned,
+and expanded.
+</sub>
+
+</p>
 
 ---
 
-  # Support The Development
-
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/42e2d89c-9449-4e18-8ee6-d7fe5960ac79" />
-
-  # Security
-
-<a href="https://github.com/ehsaanullah0/fertenix/tree/main?tab=security-ov-file">
-  <img src="https://img.shields.io/badge/Security-Policy-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
- ⭐ FINDING BEST RESOURCES IS NO MORE STUFF.
+# 🛠️ SECURITY
 
 <p align="center">
- <a href="https://worsmon-org.github.io/ehsaan-website/" target="_blank">
-<img width="100" src="https://github.com/user-attachments/assets/226a673e-c809-4245-a7f7-3dd515223617" />
-</a>
+  <a href="https://github.com/ehsaanullah0/fertenix/tree/main?tab=security-ov-file">
+    <img src="https://img.shields.io/badge/🔐%20SECURITY%20POLICY-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# 💛 SUPPORT THE DEVELOPMENT
+
+<p align="center">
+  <img width="300" height="300" alt="Support" src="https://github.com/user-attachments/assets/42e2d89c-9449-4e18-8ee6-d7fe5960ac79" />
+</p>
+
+<p align="center">
+  <sub>If you find something useful here, a ⭐ is always appreciated.</sub>
+</p>
+
+---
+
+# ✦ FINDING GOOD RESOURCES SHOULDN'T BE HARD.
+
+<p align="center">
+  <a href="https://worsmon-org.github.io/ehsaan-website/" target="_blank">
+    <img width="100" src="https://github.com/user-attachments/assets/226a673e-c809-4245-a7f7-3dd515223617" alt="Website" />
+  </a>
+</p>
 
 <p align="center">
   <a href="mailto:worsmon@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-
+  &nbsp;
   <a href="https://github.com/worsmon-org">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-
+  &nbsp;
   <a href="https://ehsaan.odoo.com/">
     <img src="https://img.shields.io/badge/Website-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
   </a>
 </p>
+
 <p align="center">
- <a href="https://github.com/ehsaanullah0/niagara-premium/releases/tag/v.10.21">
-  <img src="https://img.shields.io/badge/Release-Niagara.pro-c9b58a?style=for-the-badge" />
-</a>
+  <a href="https://github.com/ehsaanullah0/niagara-premium/releases/tag/v.10.21">
+    <img src="https://img.shields.io/badge/Release-Niagara.pro-c9b58a?style=for-the-badge" />
+  </a>
 </p>
 
-
-
-
+<p align="center">
+  <sub>Built with curiosity, too many tabs, and the occasional “let's see what happens.”</sub>
+</p>
