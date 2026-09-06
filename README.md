@@ -46,21 +46,22 @@
 * 🧪 These are development / experimental releases.
 * ⚠️ Use them at your own discretion.
 * 📌 You are responsible for anything you do with the APKs.
-
-<p align="center">
-  <a href="https://github.com/worsmon-org/ehsaan-website/releases/tag/POWER">
-    <img src="https://img.shields.io/badge/💚%20GET%20POWER%20APKs-E7AC08?style=for-the-badge&logo=android&logoColor=111111" />
-  </a>
+<br>
+ <p align="center">
+ <a href="https://github.com/ehsaanullah0/niagara-premium/releases/tag/v.10.21">
+  <img src="https://img.shields.io/badge/Release-Niagara.pro-c9b58a?style=for-the-badge" />
+</a>
 </p>
 
-> 💡 **Tip:** For easier access to Morph APKs, check out
-> **[Orion Store](https://github.com/RookieEnough/Orion-Store)**.
-
+> [!TIP]
+> ### 💡 Looking for Morph APKs?
+>
+> **[Orion Store](https://github.com/RookieEnough/Orion-Store)** can make finding and accessing them easier. ✨
 ---
 
 # ⚡ MY ANDROID TOOLBOX
 
-> *A personal collection of apps I actually find useful.*
+*A personal collection of apps I actually find useful.*
 
 ### 🔐 Privacy & Communication
 
@@ -87,7 +88,7 @@
 | [Re-Tune](https://github.com/Juanoto2012/ReTune)              | Music          |
 | [LastWave](https://github.com/Clash-Projects/LastWave-native) | FLAC / music   |
 | [Pixel Player](https://github.com/PixelPlayerHQ/PixelPlayer)  | Music player   |
-| [CloudStream](https://github.com/recloudstream/cloudstream)   | Media platform |
+| [CloudStream](https://github.com/recloudstream/cloudstream)   | Movie platform |
 
 ### 🛠️ Useful Tools
 
@@ -100,8 +101,8 @@
 | [ObtainX](https://github.com/bikram-agarwal/ObtainX)                                                                                                                                             | App updates           |
 | [Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru&pcampaignid=web_share)                                                                                      | Battery statistics    |
 
-> ⭐ **This isn't a “best apps” list.**
-> It's simply a list of things I've found useful enough to keep around.
+⭐ **This isn't a “best apps” list.**
+It's simply a list of things I've found useful enough to keep around.
 
 ---
 
@@ -111,7 +112,7 @@
 >
 > ### 💢 Your apps know more than you think.
 >
-> 🔴 **[Remove Meta Tracking From Your Life](https://youtu.be/Yv2Eb_kJous)**
+> 🔴 **[Remove Meta Tracking](https://youtu.be/Yv2Eb_kJous)**
 > Learn how to reduce tracking across Meta services.
 >
 > ⭕ **[Remove Google Tracking](https://youtu.be/WJ8clVdaRKA)**
@@ -119,11 +120,11 @@
 >
 > **Facebook · Instagram · WhatsApp · Gmail · Drive · Docs · Forms · Console · and more.**
 >
-> 🔐 *Learn how tracking works. Then decide what you're comfortable sharing.*
+🔐 *Learn how tracking works. Then decide what you're comfortable sharing.*
 
 ---
 
-# 🍎 MACOS CORNER
+# 🍎 MAC-OS CORNER
 
 > [!TIP]
 >
@@ -195,6 +196,11 @@
 <p align="center">
   <a href="https://ehsaan.odoo.com">
     <img src="https://img.shields.io/badge/🌐%20EXPLORE%20THE%20WEBSITE-E7AC08?style=for-the-badge&logo=googlechrome&logoColor=111111" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://youtube.com/shorts/HIcF1IgQkOM">
+    <img src="https://img.shields.io/badge/▶%20WATCH%20WEBSITE%20DEMO-D32F2F?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Website Demo" />
   </a>
 </p>
 
@@ -298,8 +304,7 @@ and expanded.
 
 # 💛 SUPPORT THE DEVELOPMENT
 
-<p align="center">
-  <img width="300" height="300" alt="Support" src="https://github.com/user-attachments/assets/42e2d89c-9449-4e18-8ee6-d7fe5960ac79" />
+  <img width="250" height="250" alt="Support" src="https://github.com/user-attachments/assets/42e2d89c-9449-4e18-8ee6-d7fe5960ac79" />
 </p>
 
 <p align="center">
