@@ -289,7 +289,7 @@ All security related aspects are available on security.md and you can read the p
 
 <p align="center">
   <a href="https://ehsaan.odoo.com/" target="_blank">
-<img width="100" height="100" alt="flame_icon_white_border_removed" src="https://github.com/user-attachments/assets/160433a4-7de9-474d-9e18-64395bc1993b" />
+<img width="130" height="130" alt="cropped_circle_image" src="https://github.com/user-attachments/assets/336454db-ef7d-4003-b33a-db16a945ae3c" />
   </a>
 </p>
 
