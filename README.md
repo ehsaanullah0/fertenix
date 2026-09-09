@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1796" height="876" alt="Ehsaan ULLAH" src="https://github.com/user-attachments/assets/6c140989-cfdb-4a64-a957-44ec069a0271" />
+<img width="1796" height="876" alt="Ehsaan ULLAH" src="https://github.com/user-attachments/assets/68630d20-e4d1-492c-ab24-659bfdd98f82" />
 </p>
 
 <div align="center">
@@ -288,8 +288,8 @@ All security related aspects are available on security.md and you can read the p
 ## ✦ FINDING GOOD RESOURCES SHOULDN'T BE HARD.
 
 <p align="center">
-  <a href="https://worsmon-org.github.io/ehsaan-website/" target="_blank">
-    <img width="100" src="https://github.com/user-attachments/assets/226a673e-c809-4245-a7f7-3dd515223617" alt="Website" />
+  <a href="https://ehsaan.odoo.com/" target="_blank">
+<img width="100" height="100" alt="flame_icon_white_border_removed" src="https://github.com/user-attachments/assets/160433a4-7de9-474d-9e18-64395bc1993b" />
   </a>
 </p>
 
