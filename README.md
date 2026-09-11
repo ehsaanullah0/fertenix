@@ -38,7 +38,7 @@
 
 ## ◈ PART OF EHSAAN
 
-EHSAAN QR is one of the growing collection of small digital tools under the **EHSAAN** project.
+There Are Things That Is the growing collection of small digital tools under the **EHSAAN** project.
 
 Different tools.  
 Same philosophy.
@@ -47,14 +47,18 @@ Same philosophy.
 
 > [!NOTE]
 > **More things from EHSAAN:**
+> 
+> 🏠 [**EHSAAN ULLAH**](https://github.com/ehsaanullah0/fertenix) — Portfolio for the web dev work.
 >
+>  ⚡ [ **EHSAAN WEBSITE**](https://ehsaan.odoo.com/) — The main home of the EHSAAN project and everything around it.
+> 
 > 🗜️ [**EHSAAN COMPRESS**](https://ehsaancompress.ai.studio/) — Compress images without the unnecessary fuss.
 >
-> 💥 [**EHSAAN QR**](https://ehsaanqr.ai.studio/) — Generate stunning qr codes for near to anything...
+> 💥 [**EHSAAN QR**](https://ehsaanqr.ai.studio/) — Generate stunning QR codes for nearly anything.
+>
+> 🔗 [**EHSAAN COLOUR STUDIO**](https://github.com/ehsaanullah0/colour-studio) — Explore, create, and work with colours.
 > 
-> 🔗[ **EHSAAN COLOUR STUDIO**](https://github.com/ehsaanullah0/colour-studio) — Explore, create, and work with colours.
->   
-> 🏠 [**EHSAAN ULLAH**](https://github.com/ehsaanullah0/fertenix) — The main home of the EHSAAN project and everything around it.
+> 📌 [**NIAGARA RELEASE**](https://github.com/ehsaanullah0/niagara-premium) — A Morph patch for the original apk.
 
 ---
 
