@@ -342,5 +342,5 @@ All security related aspects are available on security.md and you can read the p
 </p>
 
 <p align="center">
-  <sub>Built with curiosity, too many tabs, and the occasional “let's see what happens.”</sub>
+  <sub>Built with curiosity, too many tabs, and the occasional “let's [see](https://youtu.be/Jn02bLAlal0) what happens.”</sub>
 </p>
