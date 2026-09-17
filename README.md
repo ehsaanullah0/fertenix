@@ -289,12 +289,12 @@ It's simply a list of things I've found useful enough to keep around.
 this repo is maintained by ehsaan ullah forunder of the website and the repo with the working managed time. so the delay should be acceptable...
 
 The website is continuously being updated, experimented with, redesigned,
-and expanded.
+and [e](https://youtu.be/Jn02bLAlal0)xpanded.
 </p>
 
 
 # 🛠️ SECURITY
-All security related aspects are available on security.md and you can read the page by clicking the button below...
+All security related aspects are available on security.md and you can read the page by clicking the button blow...
 
 <p align="center">
   <a href="https://github.com/ehsaanullah0/fertenix/tree/main?tab=security-ov-file">
@@ -314,7 +314,7 @@ All security related aspects are available on security.md and you can read the p
 
 <p align="center">
 ## ✦ FINDING GOOD RESOURCES SHOULDN'T BE HARD.
-
+  
 <p align="center">
   <a href="https://ehsaan.odoo.com/" target="_blank">
 <img width="130" height="130" alt="cropped_circle_image" src="https://github.com/user-attachments/assets/336454db-ef7d-4003-b33a-db16a945ae3c" />
@@ -342,5 +342,5 @@ All security related aspects are available on security.md and you can read the p
 </p>
 
 <p align="center">
-  <sub>Built with curiosity, too many tabs, and the occasional “let's [see](https://youtu.be/Jn02bLAlal0) what happens.”</sub>
+  <sub>Built with curiosity, too many tabs, and the occasional “let's see what happens.”</sub>
 </p>
