@@ -305,7 +305,7 @@ All security related aspects are available on security.md and you can read the p
 
 # 💛 SUPPORT THE DEVELOPMENT
 
-  <img width="250" height="250" alt="Support" src="https://github.com/user-attachments/assets/42e2d89c-9449-4e18-8ee6-d7fe5960ac79" />
+<img width="400" height="400" alt="ehsaan-qr-1024x1024 (1)" src="https://github.com/user-attachments/assets/cd7dbf1f-6c54-4533-879c-d852ec8191d7" />
 </p>
 
 <p align="center">
