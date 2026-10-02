@@ -30,50 +30,13 @@
    <img height="70" src="https://github.com/user-attachments/assets/de9dd1ed-3480-442f-af74-62c3924dd747" />
 </p>
 <br>
-
-<br>
-
-<a href="https://ehsaan.odoo.com">
-  <img src="https://img.shields.io/badge/🌐%20LIVE%20WEBSITE-EhSaan.odoo.com-E7AC08?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/ehsaanullah0">
-  <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+    
+# THE HUB OF ALL EXPERIMENTS
+# 📌[**EHSAAN.ODOO.COM**](https://ehsaan.odoo.com/)
 
 </div>
 
 <br>
-
----
-
-## ◈ PART OF EHSAAN
-
-There Are Things That Is the growing collection of small digital tools under the **EHSAAN** project.
-
-Different tools.  
-Same philosophy.
-
-**Make useful things. Make them feel good to use.**
-
-> [!NOTE]
-> **More things from EHSAAN:**
-> 
-> 🏠 [**EHSAAN ULLAH**](https://github.com/ehsaanullah0/fertenix) — Portfolio for the web dev work.
->
->  ⚡ [ **EHSAAN WEBSITE**](https://ehsaan.odoo.com/) — The main home of the EHSAAN project and everything around it.
-> 
-> 🗜️ [**EHSAAN COMPRESS**](https://ehsaancompress.ai.studio/) — Compress images without the unnecessary fuss.
->
-> 💥 [**EHSAAN QR**](https://ehsaanqr.ai.studio/) — Generate stunning QR codes for nearly anything.
->
-> ⭕ [**EHSAAN FILES** ](https://ehsaanfiles.ai.studio/) — transfer files with encryption.
-> 
-> 🔗 [**EHSAAN COLOUR STUDIO**](https://github.com/ehsaanullah0/colour-studio) — Explore, create, and work with colours.
-> 
-> 📌 [**NIAGARA RELEASE**](https://github.com/ehsaanullah0/niagara-premium) — A Morph patch for the original apk.
-
----
 
 # ☢ POWER APKs by EHSAAN
 
@@ -215,10 +178,10 @@ It's simply a list of things I've found useful enough to keep around.
 
   <tr>
     <td align="center" width="33%">
-      <img width="100%" src="https://github.com/user-attachments/assets/1a93212f-d7f3-443a-bda7-48a1f5a41204" alt="Website screenshot 7" />
+       <img src="https://github.com/user-attachments/assets/86d57f20-ac48-48b6-ab1e-d90a6773335f" />
     </td>
     <td align="center" width="33%">
-      <img width="100%" src="https://github.com/user-attachments/assets/ec5ace0a-5585-4a78-bf33-aaf3f088fcea" alt="Website screenshot 8" />
+      <img width="100%" alt="Screenshot_20261002-143711" src="https://github.com/user-attachments/assets/f0b74c18-286c-46fc-abb8-af7bb1e31742" />
     </td>
     <td align="center" width="33%">
       <img width="100%" src="https://github.com/user-attachments/assets/6f0bf513-c8a0-4e27-a80b-3064cefc96e2" alt="Website screenshot 9" />
