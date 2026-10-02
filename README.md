@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/🌐%20LIVE%20WEBSITE-EhSaan.odoo.com-E7AC08?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/worsmon-org/ehsaan-website">
+<a href="https://github.com/ehsaanullah0">
   <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
