@@ -71,6 +71,7 @@
 | App                                                                                    | Why I keep it                |
 | -------------------------------------------------------------------------------------- | ---------------------------- |
 | [Proton Mail](https://play.google.com/store/apps/details?id=ch.protonmail.android)     | Private email                |
+| [ente Auth](https://ente.com/auth/)                                                  | Authantcater app             |
 | [Brave Browser](https://play.google.com/store/search?q=brave&c=apps&hl=en_IN)          | Privacy-focused browsing     |
 | [LocalSend](https://play.google.com/store/search?q=local%20send&c=apps&hl=en_IN)       | Local file sharing           |
 | [Fossify Apps](https://play.google.com/store/apps/dev?id=7297838378654322558&hl=en_IN) | Simple open-source utilities |
