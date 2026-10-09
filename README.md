@@ -97,8 +97,8 @@
 
 | App                                                                                                                                                                                              | Purpose               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- |
-| [Curium QR](https://github.com/nylxar/curium/releases/tag/v0.6.4)                                                                                                                                | QR codes              |
-| [SAVR](https://play.google.com/store/apps/details?id=com.zarnth.savr&pcampaignid=web_share) / [Linkora](https://play.google.com/store/apps/details?id=com.sakethh.linkora&pcampaignid=web_share) | Save & organize links |
+| [EHSAAN QR](https://ehsaanqr.ai.studio)                                                                                                                                | QR codes              |
+| [SAVR](https://play.google.com/store/apps/details?id=com.zarnth.savr&pcampaignid=web_share) / [Linkora](https://github.com/LinkoraApp/Linkora) | Save & organize links |
 | [Orion Store](https://github.com/RookieEnough/Orion-Store)                                                                                                                                       | App discovery         |
 | [Screen Recorder](https://github.com/muhammadhaseebiqbal-dev/Screen-Recorder)                                                                                                                    | Screen recording      |
 | [ObtainX](https://github.com/bikram-agarwal/ObtainX)                                                                                                                                             | App updates           |
