@@ -140,17 +140,21 @@ It's simply a list of things I've found useful enough to keep around.
 
 ---
 
+# 🎥 Demo
+
+<p align="center">
+  <a href="https://youtube.com/shorts/HIcF1IgQkOM"">
+    <img width="420" src="https://github.com/user-attachments/assets/bf633cc6-a8ed-4fca-b7b1-1aef2df991d3" alt="Watch EHSAAN PLAY Demo" />
+  </a>
+</p>
+
+---
+
 # 🖼️ WEBSITE PREVIEW
 
 <p align="center">
   <strong>👀 Here's a little tour of the website.</strong><br>
   <sub>Click the screenshots to explore the full site.</sub>
-</p>
-
-<p align="center">
-  <a href="https://youtube.com/shorts/HIcF1IgQkOM">
-    <img src="https://img.shields.io/badge/▶%20WATCH%20WEBSITE%20DEMO-D32F2F?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Website Demo" />
-  </a>
 </p>
 
 <table align="center">
