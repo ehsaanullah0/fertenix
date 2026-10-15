@@ -66,6 +66,13 @@
 
 *A personal collection of apps I actually find useful.*
 
+### 🎃 PERSONAL CHOICE
+
+| App                                                                                    | Why I keep it                |
+| -------------------------------------------------------------------------------------- | ---------------------------- |
+| [EHSAAN PLAY](https://ehsaanplay.ai.studio)                                            | Watchlist Manager            |
+| [VEGA-ORG](https://github.com/vega-org)                                                |STREAMING HUB                 |
+
 ### 🔐 Privacy & Communication
 
 | App                                                                                    | Why I keep it                |
