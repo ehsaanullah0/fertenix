@@ -64,53 +64,143 @@
 
 # ⚡ MY ANDROID TOOLBOX
 
-*A personal collection of apps I actually find useful.*
+# 🎃 My Personal App Collection
 
-### 🎃 PERSONAL CHOICE
+*A handpicked collection of apps I actually find useful — for privacy, productivity, music, and everyday life.*
 
-| App                                                                                    | Why I keep it                |
-| -------------------------------------------------------------------------------------- | ---------------------------- |
-| [EHSAAN PLAY](https://ehsaanplay.ai.studio)                                            | Watchlist Manager            |
-| [VEGA-ORG](https://github.com/vega-org)                                                |STREAMING HUB                 |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎃 Personal Choice
+
+**[EHSAAN PLAY](https://ehsaanplay.ai.studio)**  
+Watchlist manager
+
+**[VEGA-ORG](https://github.com/vega-org)**  
+Streaming hub
+
+</td>
+<td width="50%" valign="top">
 
 ### 🔐 Privacy & Communication
 
-| App                                                                                    | Why I keep it                |
-| -------------------------------------------------------------------------------------- | ---------------------------- |
-| [Proton Mail](https://play.google.com/store/apps/details?id=ch.protonmail.android)     | Private email                |
-| [ente Auth](https://ente.com/auth/)                                                  | Authantcater app             |
-| [Brave Browser](https://play.google.com/store/search?q=brave&c=apps&hl=en_IN)          | Privacy-focused browsing     |
-| [LocalSend](https://play.google.com/store/search?q=local%20send&c=apps&hl=en_IN)       | Local file sharing           |
-| [Fossify Apps](https://play.google.com/store/apps/dev?id=7297838378654322558&hl=en_IN) | Simple open-source utilities |
+**[Proton Mail](https://play.google.com/store/apps/details?id=ch.protonmail.android)**  
+Private email
+
+**[ente Auth](https://ente.com/auth/)**  
+Two-factor authentication
+
+**[Brave Browser](https://play.google.com/store/search?q=brave&c=apps&hl=en_IN)**  
+Privacy-focused browsing
+
+**[LocalSend](https://play.google.com/store/search?q=local%20send&c=apps&hl=en_IN)**  
+Local file sharing
+
+**[Fossify Apps](https://play.google.com/store/apps/dev?id=7297838378654322558&hl=en_IN)**  
+Open-source utilities
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧠 Productivity & Life
 
-| App                                                                     | Why I keep it      |
-| ----------------------------------------------------------------------- | ------------------ |
-| [Grit Habit Tracker](https://github.com/shub39/Grit/releases)           | Habit tracking     |
-| [Cashew](https://play.google.com/store/search?q=cashew&c=apps&hl=en_IN) | Expense management |
-| [Zenith Wellbeing](https://github.com/1372Slash/Zenith)                 | Digital wellbeing  |
-| [Tomato Pomodoro](https://github.com/nsh07/Tomato)                      | Focus sessions     |
+**[Grit](https://github.com/shub39/Grit/releases)**  
+Habit tracking
+
+**[Cashew](https://play.google.com/store/search?q=cashew&c=apps&hl=en_IN)**  
+Expense management
+
+**[Zenith Wellbeing](https://github.com/1372Slash/Zenith)**  
+Digital wellbeing
+
+**[Tomato Pomodoro](https://github.com/nsh07/Tomato)**  
+Focus sessions
+
+</td>
+<td width="50%" valign="top">
 
 ### 🎵 Media & Entertainment
 
-| App                                                           | Why I keep it  |
-| ------------------------------------------------------------- | -------------- |
-| [Re-Tune](https://github.com/Juanoto2012/ReTune)              | Music          |
-| [LastWave](https://github.com/Clash-Projects/LastWave-native) | FLAC / music   |
-| [Pixel Player](https://github.com/PixelPlayerHQ/PixelPlayer)  | Music player   |
-| [CloudStream](https://github.com/recloudstream/cloudstream)   | Movie platform |
+**[Re-Tune](https://github.com/Juanoto2012/ReTune)**  
+Music discovery and listening
+
+**[LastWave](https://github.com/Clash-Projects/LastWave-native)**  
+FLAC and music playback
+
+**[Pixel Player](https://github.com/PixelPlayerHQ/PixelPlayer)**  
+Music player
+
+**[CloudStream](https://github.com/recloudstream/cloudstream)**  
+Video streaming client
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🛠️ Useful Tools
 
-| App                                                                                                                                                                                              | Purpose               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- |
-| [EHSAAN QR](https://ehsaanqr.ai.studio)                                                                                                                                | QR codes              |
-| [SAVR](https://play.google.com/store/apps/details?id=com.zarnth.savr&pcampaignid=web_share) / [Linkora](https://github.com/LinkoraApp/Linkora) | Save & organize links |
-| [Orion Store](https://github.com/RookieEnough/Orion-Store)                                                                                                                                       | App discovery         |
-| [Screen Recorder](https://github.com/muhammadhaseebiqbal-dev/Screen-Recorder)                                                                                                                    | Screen recording      |
-| [ObtainX](https://github.com/bikram-agarwal/ObtainX)                                                                                                                                             | App updates           |
-| [Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru&pcampaignid=web_share)                                                                                      | Battery statistics    |
+**[EHSAAN QR](https://ehsaanqr.ai.studio)**  
+QR code tools
+
+**[SAVR](https://play.google.com/store/apps/details?id=com.zarnth.savr&pcampaignid=web_share)** · **[Linkora](https://github.com/LinkoraApp/Linkora)**  
+Save and organize links
+
+**[Orion Store](https://github.com/RookieEnough/Orion-Store)**  
+App discovery
+
+**[Screen Recorder](https://github.com/muhammadhaseebiqbal-dev/Screen-Recorder)**  
+Screen recording
+
+**[ObtainX](https://github.com/bikram-agarwal/ObtainX)**  
+App updates
+
+**[Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru&pcampaignid=web_share)**  
+Battery statistics
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ My Philosophy
+
+I prefer apps that earn their place on my device.
+
+- 🔒 Privacy comes first
+- 🧩 Useful over unnecessary
+- 🌱 Open source where possible
+- ⚡ Simple, focused experiences
+- 🎧 Tools I genuinely enjoy using
+
+*Less clutter. More control.*
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <sub>Curated with 🎃 and a little obsession for useful apps.</sub>
+</p>
+
+---
+
+<p align="center">
+
+**🔒 Privacy first · ⚡ Utility over clutter · 🌱 Open source where possible**
+
+*Less clutter. More control.*
+
+</p>
+
+---
+
+<p align="center">
+  <sub>Curated with 🎃 and a little obsession for useful apps.</sub>
+</p>
 
 ⭐ **This isn't a “best apps” list.**
 It's simply a list of things I've found useful enough to keep around.
