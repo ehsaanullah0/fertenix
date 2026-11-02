@@ -190,7 +190,11 @@ Battery statistics
 
 ### ✨ My Philosophy
 
-I prefer apps that earn their place on my device.
+**[TRACKHOP](https://github.com/xlollx/Trackhop/releases)**
+Transfer where you listen your music
+
+**[HUSH](https://github.com/coldMEW/Hush)**
+best way to remove spotify ads legally
 
 - 🔒 Privacy comes first
 - 🧩 Useful over unnecessary
