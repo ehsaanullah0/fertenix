@@ -188,7 +188,7 @@ Battery statistics
 </td>
 <td width="50%" valign="top">
 
-### ✨ MORE IS COMMING
+### ✨ OTHER STUFF
 
 **[TRACKHOP](https://github.com/xlollx/Trackhop/releases)**<br>
 Transfer where you listen your music
@@ -196,10 +196,8 @@ Transfer where you listen your music
 **[HUSH](https://github.com/coldMEW/Hush)**<br>
 best way to remove spotify ads legally
 
-- 🔒 Privacy comes first
-- 🧩 Useful over unnecessary
-- 🌱 Open source where possible
-- ⚡ Simple, focused experiences
+**[MEGA](https://mega.io/)**<br>
+protect your privacy on cloud
 
 </td>
 </tr>
