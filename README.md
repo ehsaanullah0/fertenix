@@ -250,120 +250,8 @@ It's simply a list of things I've found useful enough to keep around.
 
 <p align="center">
   <a href="https://youtube.com/shorts/HIcF1IgQkOM"">
-    <img width="420" src="https://github.com/user-attachments/assets/bf633cc6-a8ed-4fca-b7b1-1aef2df991d3" alt="Watch EHSAAN PLAY Demo" />
+    <img width="300" src="https://github.com/user-attachments/assets/bf633cc6-a8ed-4fca-b7b1-1aef2df991d3" alt="Watch EHSAAN PLAY Demo" />
   </a>
-</p>
-
----
-
-# 🖼️ WEBSITE PREVIEW
-
-<p align="center">
-  <strong>👀 Here's a little tour of the website.</strong><br>
-  <sub>Click the screenshots to explore the full site.</sub>
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img width="100%" src="https://github.com/user-attachments/assets/d28a11ba-b16b-4763-8459-120946672781" alt="Website screenshot 1" />
-    </td>
-    <td align="center" width="33%">
-      <img width="100%" src="https://github.com/user-attachments/assets/90d54ff6-7591-4a90-a5ea-701ab0945821" alt="Website screenshot 2" />
-    </td>
-    <td align="center" width="33%">
-      <img width="100%" src="https://github.com/user-attachments/assets/ce7a4874-0fcc-4916-a31a-5b6dadde9d69" alt="Website screenshot 3" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="33%">
-      <img width="100%" src="https://github.com/user-attachments/assets/c4b060c6-af2d-4194-8bef-0d26cf81a9de" alt="Website screenshot 4" />
-    </td>
-    <td align="center" width="33%">
-      <img width="100%" src="https://github.com/user-attachments/assets/cfc542a0-ba9b-4958-a8e0-c25a0dff49db" alt="Website screenshot 5" />
-    </td>
-    <td align="center" width="33%">
-      <img width="100%" src="https://github.com/user-attachments/assets/b24a92cf-cc8d-4ef2-ba6e-9a5af3c57131" alt="Website screenshot 6" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="33%">
-       <img src="https://github.com/user-attachments/assets/86d57f20-ac48-48b6-ab1e-d90a6773335f" />
-    </td>
-    <td align="center" width="33%">
-      <img width="100%" alt="Screenshot_20261002-143711" src="https://github.com/user-attachments/assets/f0b74c18-286c-46fc-abb8-af7bb1e31742" />
-    </td>
-    <td align="center" width="33%">
-      <img width="100%" src="https://github.com/user-attachments/assets/6f0bf513-c8a0-4e27-a80b-3064cefc96e2" alt="Website screenshot 9" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="33%">
-      <img width="100%" src="https://github.com/user-attachments/assets/28e025ec-478b-481a-b518-460a2fdb5f12" alt="Website screenshot 10" />
-    </td>
-    <td align="center" width="33%">
-<img width="720" height="1600" alt="1000005240" src="https://github.com/user-attachments/assets/80506ed1-9f13-45e7-884b-5672fcb9e4b7" />
-  </td>
-  <td align="center" width="33%">
-  <img width="720" height="1600" alt="1000005242" src="https://github.com/user-attachments/assets/492f2d90-318c-40a0-b744-bbbc6068413c" />
-</table>
-
-<p align="center">
-  <a href="https://ehsaan.odoo.com">
-    <img src="https://img.shields.io/badge/🌐%20EXPLORE%20THE%20WEBSITE-E7AC08?style=for-the-badge&logo=googlechrome&logoColor=111111" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://youtube.com/shorts/HIcF1IgQkOM">
-    <img src="https://img.shields.io/badge/▶%20WATCH%20WEBSITE%20DEMO-D32F2F?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Website Demo" />
-  </a>
-</p>
-
----
-
-<h2 align="center">✍️ BLOG & THOUGHTS</h2>
-
-<p align="center">
-  <sub>Ideas, experiments, discoveries & things worth keeping.</sub>
-</p>
-
-<br>
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🧠 Thoughts</h3>
-      <p>Thoughts, observations, lessons & ideas.</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>💻 Tech</h3>
-      <p>Websites, GitHub, tools & experiments.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>📚 Learning</h3>
-      <p>Notes, discoveries & useful resources.</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🎨 Creative</h3>
-      <p>Wallpapers, music, designs & random creations.</p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<p align="center">
-  <a href="https://worsmon-org.github.io/ehsaan-website/">
-    <img src="https://img.shields.io/badge/📖%20READ%20MY%20BLOG-E7DDC1?style=for-the-badge&labelColor=111111&logo=readme&logoColor=white" alt="Read my blog">
-  </a>
-</p>
-
-<p align="center">
-  <sub>Not everything needs to be a project. Sometimes it's just worth sharing.</sub>
 </p>
 
 ---
@@ -388,11 +276,7 @@ All security related aspects are available on security.md and you can read the p
   </a>
 </p>
 
-
-# 💛 SUPPORT THE DEVELOPMENT
-
-<img width="400" height="400" alt="ehsaan-qr-1024x1024 (1)" src="https://github.com/user-attachments/assets/cd7dbf1f-6c54-4533-879c-d852ec8191d7" />
-</p>
+## SPONSOR THE PROJECT [CLICK NOW](https://ehsaan.odoo.com/support)
 
 <p align="center">
   <sub>If you find something useful here, a ⭐ is always appreciated.</sub>
