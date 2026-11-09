@@ -223,7 +223,7 @@ The website is continuously being updated, experimented with, redesigned,
 and [e](https://youtu.be/Jn02bLAlal0)xpanded.
 </p>
 
-## SPONSOR THE PROJECT [CLICK NOW](https://ehsaan.odoo.com/support)
+## SUPPORT THE PROJECT [CLICK NOW](https://ehsaan.odoo.com/support)
 
 <p align="center">
   <sub>If you find something useful here, a ⭐ is always appreciated.</sub>
