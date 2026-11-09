@@ -41,52 +41,6 @@
 
 # ☢ POWER APKs by EHSAAN
 
-> **Experimental releases, modified apps & things I'm playing around with.**
-
-### ✨ Release Highlights
-
-* 🔓 Premium features are included.
-* 🧪 These are development / experimental releases.
-* ⚠️ Use them at your own discretion.
-* 📌 You are responsible for anything you do with the APKs.
-<br>
- <p align="center">
- <a href="https://github.com/ehsaanullah0/niagara-premium/releases/tag/v.10.21">
-  <img src="https://img.shields.io/badge/Release-Niagara.pro-c9b58a?style=for-the-badge" />
-</a>
-</p>
-
-## want more cracked apks for free then visit documentations ⬇
-
-
-<div align="center"> 
-<picture>
-    <source
-      width="512px"
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/MorpheApp/.github/refs/heads/main/profile/assets/morphe-wordmark/morphe_wordmark_dark.svg"
-    />
-    <img 
-      width="512px"
-      src="https://raw.githubusercontent.com/MorpheApp/.github/refs/heads/main/profile/assets/morphe-wordmark/morphe_wordmark_light.svg"
-     alt="Morphe_logo"/>
-</picture>
-</div> 
-
-&nbsp;
-<p align="center">
-  <a href="https://morphe.software" title="Download Morphe">
-    <img src="https://raw.githubusercontent.com/MorpheApp/.github/refs/heads/main/profile/assets/download-morphe.svg" alt="Download Morphe" width="150"/>
-  </a>
-</p>
-&nbsp;
-
----
-
-# ⚡ MY ANDROID TOOLBOX
-
-# 🎃 My Personal App Collection
-
 *A handpicked collection of apps I actually find useful — for privacy, productivity, music, and everyday life.*
 
 <table>
