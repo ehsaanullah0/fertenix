@@ -39,41 +39,44 @@
 
 <br>
 
-# ☢ POWER APKs by EHSAAN
+## ☢ POWER APKs by EHSAAN
 
 *A handpicked collection of apps I actually find useful — for privacy, productivity, music, and everyday life.*
 
-<table>
+<table width="100%" align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
 <tr>
 <td width="50%" valign="top">
 
-### 🎃 Personal Choice
+<img src="https://raw.githubusercontent.com/RookieEnough/Orion-Store/main/assets/feature-release.svg" width="64" alt="Personal Choice">
 
-**[EHSAAN PLAY](https://ehsaanplay.ai.studio)**<br>
+### Personal Choice
+
+**[EHSAAN PLAY](https://ehsaanplay.ai.studio)**  
 Watchlist manager
 
-**[VEGA-ORG](https://github.com/vega-org)**<br>
+**[VEGA-ORG](https://github.com/vega-org)**  
 Streaming hub
 
-**[MOCHY MUSICS](https://github.com/realidkroo/Mochy-Music)**<br>
+**[MOCHY MUSICS](https://github.com/realidkroo/Mochy-Music)**  
 Music app with great visuals
+
+**[Brave Browser](https://play.google.com/store/search?q=brave&c=apps&hl=en_IN)**  
+Privacy-focused browsing
+
+
 
 </td>
 <td width="50%" valign="top">
-  
-### 🔐 Privacy & Communication
+
+<img src="https://raw.githubusercontent.com/RookieEnough/Orion-Store/main/assets/feature-sentinel.svg" width="64" alt="Privacy">
+
+### Privacy & Communication
 
 **[Proton Mail](https://play.google.com/store/apps/details?id=ch.protonmail.android)**  
 Private email
 
 **[ente Auth](https://ente.com/auth/)**  
 Two-factor authentication
-
-**[Brave Browser](https://play.google.com/store/search?q=brave&c=apps&hl=en_IN)**  
-Privacy-focused browsing
-
-**[LocalSend](https://play.google.com/store/search?q=local%20send&c=apps&hl=en_IN)**  
-Local file sharing
 
 **[Fossify Apps](https://play.google.com/store/apps/dev?id=7297838378654322558&hl=en_IN)**  
 Open-source utilities
@@ -83,7 +86,9 @@ Open-source utilities
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Productivity & Life
+<img src="https://raw.githubusercontent.com/RookieEnough/Orion-Store/main/assets/feature-tools.svg" width="64" alt="Productivity">
+
+### Productivity & Life
 
 **[Grit](https://github.com/shub39/Grit/releases)**  
 Habit tracking
@@ -100,7 +105,9 @@ Focus sessions
 </td>
 <td width="50%" valign="top">
 
-### 🎵 Media & Entertainment
+<img src="https://raw.githubusercontent.com/RookieEnough/Orion-Store/main/assets/feature-palette.svg" width="64" alt="Entertainment">
+
+### Media & Entertainment
 
 **[Re-Tune](https://github.com/Juanoto2012/ReTune)**  
 Music discovery and listening
@@ -119,13 +126,18 @@ Video streaming client
 <tr>
 <td width="50%" valign="top">
 
-### 🛠️ Useful Tools
+<img src="https://raw.githubusercontent.com/RookieEnough/Orion-Store/main/assets/feature-dev.svg" width="64" alt="Useful Tools">
+
+### Useful Tools
 
 **[EHSAAN QR](https://ehsaanqr.ai.studio)**  
 QR code tools
 
-**[SAVR](https://play.google.com/store/apps/details?id=com.zarnth.savr&pcampaignid=web_share)** · **[Linkora](https://github.com/LinkoraApp/Linkora)**  
-Save and organize links
+**[SAVR](https://play.google.com/store/apps/details?id=com.zarnth.savr&pcampaignid=web_share)**  
+Save content
+
+**[Linkora](https://github.com/LinkoraApp/Linkora)**  
+Organize links
 
 **[Orion Store](https://github.com/RookieEnough/Orion-Store)**  
 App discovery
@@ -142,21 +154,26 @@ Battery statistics
 </td>
 <td width="50%" valign="top">
 
-### ✨ OTHER STUFF
+<img src="https://raw.githubusercontent.com/RookieEnough/Orion-Store/main/assets/feature-orbit.svg" width="64" alt="Other Stuff">
 
-**[TRACKHOP](https://github.com/xlollx/Trackhop/releases)**<br>
-Transfer where you listen your music
+### Other Stuff
 
-**[HUSH](https://github.com/coldMEW/Hush)**<br>
-best way to remove spotify ads legally
+**[TRACKHOP](https://github.com/xlollx/Trackhop/releases)**  
+Transfer listening activity between music services
 
-**[MEGA](https://mega.io/)**<br>
-protect your privacy on cloud
+**[HUSH](https://github.com/coldMEW/Hush)**  
+A cleaner Spotify listening experience
+
+**[MEGA](https://mega.io/)**  
+Cloud privacy and storage
+
+**[LocalSend](https://play.google.com/store/search?q=local%20send&c=apps&hl=en_IN)**  
+Local file sharing
 
 </td>
 </tr>
 </table>
-
+  
 ---
 
 <p align="center">
