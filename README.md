@@ -198,34 +198,12 @@ It's simply a list of things I've found useful enough to keep around.
 
 ---
 
-# 🎥 Demo
-
-<p align="center">
-  <a href="https://youtube.com/shorts/HIcF1IgQkOM"">
-    <img width="300" src="https://github.com/user-attachments/assets/bf633cc6-a8ed-4fca-b7b1-1aef2df991d3" alt="Watch EHSAAN PLAY Demo" />
-  </a>
-</p>
-
----
-
-# 🚧 STATUS
-
 🟢 **ACTIVE DEVELOPMENT**
 
 this repo is maintained by ehsaan ullah forunder of the website and the repo with the working managed time. so the delay should be acceptable...
 
 The website is continuously being updated, experimented with, redesigned,
 and [e](https://youtu.be/Jn02bLAlal0)xpanded.
-</p>
-
-
-# 🛠️ SECURITY
-All security related aspects are available on security.md and you can read the page by clicking the button blow...
-
-<p align="center">
-  <a href="https://github.com/ehsaanullah0/fertenix/tree/main?tab=security-ov-file">
-    <img src="https://img.shields.io/badge/🔐%20SECURITY%20POLICY-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ## SPONSOR THE PROJECT [CLICK NOW](https://ehsaan.odoo.com/support)
