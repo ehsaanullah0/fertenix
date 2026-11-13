@@ -128,9 +128,6 @@ Screen recording
 **[ObtainX](https://github.com/bikram-agarwal/ObtainX)**  
 App updates
 
-**[Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru&pcampaignid=web_share)**  
-Battery statistics
-
 </td>
 <td width="50%" valign="top">
 
@@ -149,6 +146,9 @@ Cloud privacy and storage
 
 **[LocalSend](https://play.google.com/store/search?q=local%20send&c=apps&hl=en_IN)**  
 Local file sharing
+
+**[Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru&pcampaignid=web_share)**  
+Battery statistics
 
 </td>
 </tr>
