@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1796" height="876" alt="Ehsaan ULLAH" src="https://github.com/user-attachments/assets/68630d20-e4d1-492c-ab24-659bfdd98f82" />
+<img width="1348" height="545" alt="{740339F9-ADCA-45E0-8826-8419F86CBF67}" src="https://github.com/user-attachments/assets/dcf92bf1-29a3-4d53-8b91-e3f733a0a6d3" />
 </p>
 
 <div align="center">
